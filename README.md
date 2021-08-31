@@ -1,4 +1,4 @@
-# Locadora
+# Next.js Boilerplate
 
 Esse é um boilerplate de React utilizando o framework Next.js. Nele, tem algumas tecnologias para agilizar no desenvolvimento.
 
